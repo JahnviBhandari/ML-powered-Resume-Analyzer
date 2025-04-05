@@ -23,8 +23,3 @@ Achieved over **98% accuracy** on test data!
  Used `RandomForestClassifier` from `sklearn`
 - Trained on 80% data, tested on 20%
 - Output: Classification report with **precision**, **recall**, and **f1-score** per category
-
-# Requirements
-pip install nltk
-pip install wordcloud
-pip install scikit-learn
